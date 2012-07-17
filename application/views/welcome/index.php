@@ -48,8 +48,8 @@
 <div id="header">
 	<div class="container_24">
 		<div class="grid_24">
-			<h1>RedTag</h1>
-			<a href="<?=BASEURL?>test/logout">Logout</a>
+			<h1>UserName</h1>
+			<a href="<?=BASEURL?>authentication/logout">Logout</a>
 		</div>
 	</div>
 
